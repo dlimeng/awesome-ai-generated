@@ -5,3 +5,8 @@
 
 [open-llm-leaderboard](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a)
 
+# midjourney相关文档
+
+[参数介绍](midjourney/parameter.md)
+
+[指令列表](midjourney/command.md)
