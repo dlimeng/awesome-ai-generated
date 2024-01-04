@@ -14,3 +14,7 @@
 # stable diffusion webui
 
 [sd插件清单](stable-diffusion-webui/extension.md)
+
+# AI Agent Database
+
+[清单](https://docs.google.com/spreadsheets/d/1QeCDcZzgaf6_2jSqyDLYmdB_0JpQsBTfuAhUnk3o250/edit?pli=1#gid=0)
