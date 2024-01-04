@@ -10,3 +10,7 @@
 [参数介绍](midjourney/parameter.md)
 
 [指令列表](midjourney/command.md)
+
+# stable diffusion webui
+
+[sd插件清单](stable-diffusion-webui/extension.md)
