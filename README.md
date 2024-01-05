@@ -18,3 +18,7 @@
 # AI Agent Database
 
 [清单](https://docs.google.com/spreadsheets/d/1QeCDcZzgaf6_2jSqyDLYmdB_0JpQsBTfuAhUnk3o250/edit?pli=1#gid=0)
+
+# AIGC 日报
+
+[2024-01-05日报](ai-generated-daily/2024-01-05.md)
