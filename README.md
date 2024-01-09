@@ -39,3 +39,4 @@
 # AIGC 日报
 
 [2024-01-05日报](ai-generated-daily/2024-01-05.md)
+[2024-01-08日报](ai-generated-daily/2024-01-08.md)
