@@ -55,3 +55,5 @@
 [2024-01-13日报](ai-generated-daily/2024-01-13.md)
 
 [2024-01-14日报](ai-generated-daily/2024-01-14.md)
+
+[2024-01-15日报](ai-generated-daily/2024-01-15.md)
