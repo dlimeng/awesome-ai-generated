@@ -61,3 +61,5 @@
 [2024-01-16日报](ai-generated-daily/2024-01-16.md)
 
 [2024-01-17日报](ai-generated-daily/2024-01-17.md)
+
+[2024-01-18日报](ai-generated-daily/2024-01-18.md)
