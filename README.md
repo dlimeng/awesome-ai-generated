@@ -38,6 +38,10 @@
 
 [如何给AI下达精准的指令](https://zhuanlan.zhihu.com/p/677671993)
 
+# 总结
+
+[2023年年度总结](https://zhuanlan.zhihu.com/p/679704856)
+
 # AIGC 日报
 
 [2024-01-05日报](ai-generated-daily/2024-01-05.md)
