@@ -79,3 +79,5 @@
 [2024-01-24日报](ai-generated-daily/2024-01-24.md)
 
 [2024-01-25日报](ai-generated-daily/2024-01-25.md)
+
+[2024-01-26日报](ai-generated-daily/2024-01-26.md)
