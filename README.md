@@ -89,3 +89,7 @@
 [2024-01-29日报](ai-generated-daily/2024-01-29.md)
 
 [2024-01-30日报](ai-generated-daily/2024-01-30.md)
+
+[2024-01-31日报](ai-generated-daily/2024-01-31.md)
+
+[2024-02-01日报](ai-generated-daily/2024-02-01.md)
