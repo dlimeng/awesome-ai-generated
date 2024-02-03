@@ -93,3 +93,5 @@
 [2024-01-31日报](ai-generated-daily/2024-01-31.md)
 
 [2024-02-01日报](ai-generated-daily/2024-02-01.md)
+
+[2024-02-02日报](ai-generated-daily/2024-02-02.md)
