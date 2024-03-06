@@ -113,3 +113,5 @@
 [2024-03-04日报](ai-generated-daily/2024-03-04.md)
 
 [2024-03-05日报](ai-generated-daily/2024-03-05.md)
+
+[2024-03-06日报](ai-generated-daily/2024-03-06.md)
