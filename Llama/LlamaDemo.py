@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # 导入HuggingFace API Token
 import os
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = ''
 
 # 加载预训练模型的分词器
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
